@@ -261,3 +261,9 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+/.idea/.gitignore
+/.idea/DocuWareSample.iml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
