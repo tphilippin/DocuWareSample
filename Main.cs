@@ -4,6 +4,6 @@ public class HelloDocuWare
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine ("Hello DocuWare");
+        Console.WriteLine ("Hello DocuWare, Hello Team");
     }
 }
